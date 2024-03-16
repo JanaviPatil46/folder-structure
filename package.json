@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
